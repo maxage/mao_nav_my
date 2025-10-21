@@ -481,7 +481,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "垃圾🧭导航站",
-  "_fileSha": "cb78ea309d008c164ba5f9ed52c2f87b9d84ecd4",
-  "search": "google"
+  "title": "垃圾🧭导航站"
 }
